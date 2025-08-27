@@ -108,5 +108,5 @@ Comprehensive breakdown of KPIs by outlet type
 
 8-Consistent Customer Ratings (~4) across outlets reflect stable satisfaction levels.
 
-#Screen Shot of the dahboard--
+# Screen Shot of the dahboard--
 <img width="1345" height="742" alt="image" src="https://github.com/user-attachments/assets/35cab609-58b8-4998-9c44-5bae1fd6fa94" />
