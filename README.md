@@ -101,9 +101,12 @@ Comprehensive breakdown of KPIs by outlet type
 
 4-Medium & High outlets outperform small → expansion potential
 
-Stable ratings (~4) across outlets → consistent customer satisfaction
-Top-Selling Categories (Fruits & Vegetables, Snacks) should remain a stocking priority.
+5-Stable ratings (~4) across outlets → consistent customer satisfaction
+6-Top-Selling Categories (Fruits & Vegetables, Snacks) should remain a stocking priority.
 
-Medium & High Outlets outperform smaller outlets, suggesting store expansion opportunities.
+7-Medium & High Outlets outperform smaller outlets, suggesting store expansion opportunities.
 
-Consistent Customer Ratings (~4) across outlets reflect stable satisfaction levels.
+8-Consistent Customer Ratings (~4) across outlets reflect stable satisfaction levels.
+
+#Screen Shot of the dahboard--
+<img width="1345" height="742" alt="image" src="https://github.com/user-attachments/assets/35cab609-58b8-4998-9c44-5bae1fd6fa94" />
