@@ -54,33 +54,26 @@ The dashboard was built using the following tools and technologies:
 
 #❓ Business Questions & Objectives
 
-1-Total Sales by Fat Content
+1-Total Sales by Fat Content:
+Impact of fat content on sales + variation in other KPIs
 
-  Impact of fat content on sales + variation in other KPIs
-
-2-Total Sales by Item Type
-
+2-Total Sales by Item Type:
   Identify performance of product categories
 
-3-Fat Content by Outlet for Total Sales
+3-Fat Content by Outlet for Total Sales:
+ Compare sales across outlets segmented by fat content
 
-  Compare sales across outlets segmented by fat content
+4-Total Sales by Outlet Establishment:
+ Analyze how outlet establishment year influences sales
 
-4-Total Sales by Outlet Establishment
+5-Percentage of Sales by Outlet Size:
+    Correlation between outlet size and total sales
 
-  Analyze how outlet establishment year influences sales
+6-Sales by Outlet Location:
+ Geographic distribution of sales across Tier 1, 2, and 3 cities
 
-5-Percentage of Sales by Outlet Size
-
-  Correlation between outlet size and total sales
-
-6-Sales by Outlet Location
-
-  Geographic distribution of sales across Tier 1, 2, and 3 cities
-
-7-All Metrics by Outlet Type
-
-  Comprehensive breakdown of KPIs by outlet type
+7-All Metrics by Outlet Type:
+Comprehensive breakdown of KPIs by outlet type
 
 #🔑 Dashboard Features
 
